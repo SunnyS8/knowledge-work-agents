@@ -17,6 +17,7 @@
 | Инженерия, код-ревью, инциденты | engineering | code-review, system-design, incident-response, deploy-checklist, documentation |
 | Дизайн, UX, доступность, ресёрч | design | design-critique, design-system, accessibility-review, user-research |
 | Операции, процессы, риски, вендоры | operations | process-doc, risk-assessment, change-request, runbook, vendor-review |
+| Логистика, доставка, склад, перевозки, контейнеры | logistics | route-planning, shipment-tracking, warehouse, procurement, freight, container-shipping |
 | Малый бизнес, payroll, месячные процессы | small-business | plan-payroll, close-month, cash-flow-snapshot, invoice-chase, tax-prep |
 | Поиск по всем инструментам компании | enterprise-search | search, search-strategy, digest, knowledge-synthesis |
 | Личная продуктивность, память, задачи | productivity | task-management, memory-management, update |
@@ -70,6 +71,10 @@ SQL-запросы, исследование данных, статистиче�
 ### operations
 Управление вендорами, документирование процессов, управление изменениями, capacity-планирование, комплаенс-трекинг.
 Скиллы: `capacity-plan`, `change-request`, `compliance-tracking`, `process-doc`, `process-optimization`, `risk-assessment`, `runbook`, `status-report`, `vendor-review`.
+
+### logistics
+Доставка и маршруты, склад и запасы, закупки и поставки, грузоперевозки и таможня, морские контейнерные перевозки.
+Скиллы: `container-shipping`, `freight`, `procurement`, `route-planning`, `shipment-tracking`, `warehouse`.
 
 ### enterprise-search
 Единый поиск по всем инструментам компании: почта, чат, документы, вики.

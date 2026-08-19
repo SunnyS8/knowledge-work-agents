@@ -35,6 +35,8 @@ opencode
 | «Разбери инцидент» | `engineering-specialist` + incident-response |
 | «Проверь доступность макета» | `design-specialist` + accessibility-review |
 | «Документируй процесс» | `operations-specialist` + process-doc |
+| «Спланируй маршруты доставки» | `logistics-specialist` + route-planning |
+| «Организуй контейнерную поставку» | `logistics-specialist` + container-shipping |
 | «Спланируй payroll» | `small-business-specialist` + plan-payroll |
 | «Найди по всем нашим инструментам» | `enterprise-search-specialist` + search |
 
@@ -55,7 +57,7 @@ opencode
 @legal-specialist проверь договор с вендором
 ```
 
-Полный список специалистов: `sales, marketing, finance, data, legal, customer-support, product-management, hr, engineering, design, operations, small-business, enterprise-search` (+ суффикс `-specialist`).
+Полный список специалистов: `sales, marketing, finance, data, legal, customer-support, product-management, hr, engineering, design, operations, logistics, small-business, enterprise-search` (+ суффикс `-specialist`).
 
 ## 5. Сквозные процессы
 
@@ -100,8 +102,8 @@ powershell -ExecutionPolicy Bypass -File scripts/sync-skills.ps1
 
 | Файл/папка | Что это |
 |---|---|
-| `.opencode/agents/` | Агенты (orchestrator + 13 специалистов) |
-| `.opencode/skills/` | 149 скиллов (инструкции и workflow) |
+| `.opencode/agents/` | Агенты (orchestrator + 14 специалистов) |
+| `.opencode/skills/` | 155 скиллов (инструкции и workflow) |
 | `.opencode/command/` | Команды `/...` |
 | `opencode.json` | Конфиг: default_agent, MCP |
 | `AGENTS.md` | Правила, которые читает любой агент |

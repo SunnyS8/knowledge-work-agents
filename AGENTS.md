@@ -13,7 +13,7 @@
 ├── .opencode/
 │   ├── agents/                        # агенты (markdown + frontmatter)
 │   │   ├── orchestrator.md            # primary-агент-диспетчер (по умолчанию)
-│   │   └── *-specialist.md            # 13 специалистов-субагентов
+│   │   └── *-specialist.md            # 14 специалистов-субагентов
 │   ├── skills/                        # скиллы (папка → SKILL.md)
 │   │   ├── orchestrator*              # 4 скилла оркестратора
 │   │   ├── connectors/                # проверка и подключение MCP

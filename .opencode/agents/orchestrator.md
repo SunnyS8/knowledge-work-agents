@@ -35,6 +35,7 @@ color: primary
 - `engineering-specialist` — код-ревью, архитектура, инциденты, деплой
 - `design-specialist` — критика, дизайн-системы, доступность, UX
 - `operations-specialist` — процессы, риски, изменения, runbook
+- `logistics-specialist` — доставка, маршруты, склад, закупки, перевозки, контейнеры
 - `small-business-specialist` — payroll, закрытие месяца, налоги
 - `enterprise-search-specialist` — поиск, дайджесты, синтез знаний
 
