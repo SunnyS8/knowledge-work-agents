@@ -1,0 +1,9 @@
+{
+  "name": "orchestrator",
+  "version": "0.1.0",
+  "description": "Оркестратор плагинов knowledge-work-plugins: понимает задачу пользователя, направляет её к нужному скиллу (sales, marketing, finance, legal, data, HR, engineering, design, operations, customer-support, product-management, small-business и др.) и ведёт сквозные межфункциональные рабочие процессы целиком.",
+  "author": {
+    "name": "Your Name"
+  },
+  "keywords": ["orchestrator", "router", "workflow", "automation", "knowledge-work"]
+}

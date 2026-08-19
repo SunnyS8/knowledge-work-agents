@@ -1,0 +1,36 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "default_agent": "orchestrator",
+  "mcp": {
+    "slack": {
+      "type": "remote",
+      "url": "https://mcp.slack.com/mcp",
+      "enabled": false
+    },
+    "notion": {
+      "type": "remote",
+      "url": "https://mcp.notion.com/mcp",
+      "enabled": false
+    },
+    "hubspot": {
+      "type": "remote",
+      "url": "https://mcp.hubspot.com/anthropic",
+      "enabled": false
+    },
+    "atlassian": {
+      "type": "remote",
+      "url": "https://mcp.atlassian.com/v1/mcp",
+      "enabled": false
+    },
+    "ms365": {
+      "type": "remote",
+      "url": "https://microsoft365.mcp.claude.com/mcp",
+      "enabled": false
+    },
+    "github": {
+      "type": "remote",
+      "url": "https://api.githubcopilot.com/mcp/",
+      "enabled": false
+    }
+  }
+}
